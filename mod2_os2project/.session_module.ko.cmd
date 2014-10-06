@@ -1,0 +1,1 @@
+cmd_/home/rob/mod2_os2project/session_module.ko := ld -r -m elf_x86_64 -T /home/rob/src/linux-3.13.1/scripts/module-common.lds --build-id  -o /home/rob/mod2_os2project/session_module.ko /home/rob/mod2_os2project/session_module.o /home/rob/mod2_os2project/session_module.mod.o
